@@ -1,4 +1,4 @@
-## Hi there 👋
+## Déu vos guard 👋
 
 <!--
 **artur-tello/artur-tello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
